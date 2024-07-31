@@ -1,0 +1,28 @@
+//Sorting Algorithm
+fun main()
+{
+  var i: int[10] = {9, 3, 2, 1, 3, 4, 6, 8, 0, 4};
+  var count: int = 0;
+  val check: bool = true;
+  while ((count < 10) == check)
+  {
+     var Count: int = count + 1;
+     while (Count < 10)
+     {
+        if (i[count] < i[Count])
+        {
+           var temp: int = i[count];
+           i[count] = i[Count];
+           i[Count] = temp;
+        }
+        else
+        {
+           var temp: bool = (check != true);
+        }
+        Count = Count + 1;
+     }
+     count = count + 1;
+  }
+  println(i);
+  ret;
+}

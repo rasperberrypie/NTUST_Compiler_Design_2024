@@ -1,0 +1,21 @@
+/* sample program for food menu */
+
+/* -------------------------------
+welcome everyone to order
+-------------------------------- */
+
+fun main () {
+  // this is main function that will run the code
+  
+  /* ==============================
+  defining variables in this section
+  ================================ */
+  
+  var food : string = "burger"; //most ordered
+  var drink : string = "cola"; //limited flavour variant
+  
+  var set : char = 'a'; //menu set
+  
+  var upcoming_menu : char = '/' /* upcoming food and drink */
+  var sold_out : char = '\' // use the backslash as none sold out
+}

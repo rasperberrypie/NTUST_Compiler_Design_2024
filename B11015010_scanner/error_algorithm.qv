@@ -1,0 +1,32 @@
+int main() {
+  var grade : char;
+
+  println("what is my grade?");
+  
+  grade = 'A';
+
+  // switch statement with break statements after each case
+  switch (grade) {
+    case 'A':
+      println(grade);
+      break;
+    case 'B':
+      println(grade);
+      break;
+    case 'C':
+      println(grade);
+      break;
+    case 'D':
+      println(grade);
+      break;
+    case 'F':
+      println(grade);
+      break;
+    default:
+      println("Invalid grade");
+  }
+  
+  var score : char = 'ab';
+  
+  ret;
+}
