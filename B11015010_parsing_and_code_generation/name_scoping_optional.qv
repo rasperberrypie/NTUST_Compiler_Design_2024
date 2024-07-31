@@ -1,0 +1,9 @@
+fun main () {
+	var i: real = 3.0;
+	{
+	  // Allowed with name hiding (in the parenthesis only the inner i 
+	  //   can be seen and accessed)
+		var i: int = 2; 
+	}
+	var i: real[2]; // yyerror("ERROR: duplicate declaration");
+}

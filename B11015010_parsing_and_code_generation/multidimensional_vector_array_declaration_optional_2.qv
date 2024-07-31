@@ -1,0 +1,8 @@
+fun main () {
+	var arr1: real[2][2] = {{1, 2}, {3, 4}}; // arr1[0][0], arr1[0][1], arr1[1][0], arr1[1][1]
+	var arr2: real[2][2] = {{1, 0}, {0, 1}}; // arr2[0][0], arr2[0][1], arr2[1][0], arr2[1][1]
+	print( arr1 * arr2 ); // {1, 2, 3, 4}
+	print( "\n" );
+	print( arr1 + arr2 ); // {2, 2, 3, 5}
+  print( "\n" );
+}
