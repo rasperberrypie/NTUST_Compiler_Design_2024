@@ -1,0 +1,34 @@
+//test 1 - declaration var, printing and calculation
+fun main() {
+	var a: int;
+	{
+		var a: real;
+		var b: int = 2;
+		println(b);
+		b = 5;
+		a = 10.5;
+		println(123.456);
+		print("\n");
+		print(b);
+		println(a);
+		println(a+1);
+		println(b+1);
+		print("\n");
+		print(a+b);
+		print("\n");
+		print(b-a);
+		var resInt: int = a * b - 0;
+		println(resInt);
+		var resReal: real;
+		resReal = b / a;
+		println(resReal);
+		print(3 + -2 * (2 + 3));
+		println(4 * ((3 + a) - b));
+	}
+	var n: string = "hello";
+	println(n);
+	println("Hello to compiler");
+	var bo: bool = true;
+	bo = false;
+	println(bo);
+}

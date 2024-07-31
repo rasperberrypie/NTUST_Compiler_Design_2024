@@ -1,0 +1,4 @@
+//test 3 - mismatched type string to int
+fun main () {
+	var a: int = "meow"; //error of type, string value to int type
+}

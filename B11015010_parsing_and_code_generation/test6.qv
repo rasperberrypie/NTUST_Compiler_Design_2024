@@ -1,0 +1,5 @@
+//test 6 - array
+fun main () {
+	var arr1: int[2] = {1, 2};
+	println(arr1[0] + arr1[1]);
+}

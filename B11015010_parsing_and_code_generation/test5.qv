@@ -1,0 +1,9 @@
+//test 5 - function failed because of return void function
+fun welcome() {
+	var i: string = "hello";
+	ret i;
+}
+
+fun main () {
+	println(welcome());
+}

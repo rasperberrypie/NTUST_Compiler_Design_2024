@@ -1,0 +1,6 @@
+//test 4 - val error
+fun main() {
+	val a: int = 3;
+	a = 2;
+	print(a);
+}

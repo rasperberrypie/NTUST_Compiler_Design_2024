@@ -1,0 +1,6 @@
+//test 2 - declaration val
+fun main() {
+	val a: int = 3;
+	print(a);
+	print("\n");
+}
