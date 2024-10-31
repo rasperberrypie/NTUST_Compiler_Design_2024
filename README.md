@@ -22,13 +22,17 @@
 ---
 
 ### Homework 1: Regexes and FAs
+- **Key Files**: [B11015010_Regexes_and_FAs](B11015010_Regexes_and_FAs/)
 &nbsp;
 
 ### Homework 2: Scanner
+- **Key Files**: [B11015010_scanner](B11015010_scanner/)
 &nbsp;
 
 ### Homework 3: Parsing Methods - LL(1), LR(0), SLR, and LR(1)
+- **Key Files**: [B11015010_Parsing_Methods](B11015010_Parsing_Methods/)
 &nbsp;
 
 ### Homework 4: Parsing and C Code Generation
+- **Key Files**: [B11015010_parsing_and_code_generation](B11015010_parsing_and_code_generation/)
 &nbsp;
